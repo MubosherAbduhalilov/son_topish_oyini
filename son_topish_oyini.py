@@ -15,7 +15,7 @@ while True:
 	print('1 dan 10 gacha son o\'ylang. Men topishga harakat qilaman')
 	input('Agar o\'ylagan bo\'lsangiz istalgan tugmani bosing ')
 	sr=1
-	sp=11
+	sp=10
 	for i in range(1,10):
 		com_gue=randint(sr,sp)
 		javob = input(f"Siz {com_gue} ni o\'yladingiz: to\'g\'ri(t),"
